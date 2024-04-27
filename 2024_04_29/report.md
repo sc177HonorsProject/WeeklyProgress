@@ -1,0 +1,1 @@
+- Not all reports have a Finding or an Impression. Some reports contain only Findings or only Impressions and some may contain neither.
